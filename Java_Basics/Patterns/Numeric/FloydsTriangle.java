@@ -12,7 +12,7 @@ public class FloydsTriangle {
     }
 
     public static void main(String[] args) {
-        floydsTri(5);   // yahan number change kar sakti ho
+        floydsTri(5);
     }
 }
 
