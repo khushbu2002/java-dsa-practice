@@ -1,5 +1,3 @@
-package Data_Structures.Array.ID_Array;
-
 import java.util.Arrays;
 
 public class ReverseArray {
