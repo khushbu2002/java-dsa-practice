@@ -8,7 +8,7 @@ public class ReverseString {
             reversed1 += str.charAt(i);
         }
         System.out.println("Loops method: " + reversed1);
-       //string builder class used here.
+
         String reversed2 = new StringBuilder(str).reverse().toString();
         System.out.println("StringBuilder Method:" + reversed2);
     }
