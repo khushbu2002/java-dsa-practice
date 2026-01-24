@@ -10,6 +10,7 @@ public class MakeString {
         System.out.println(sb);
         sb.delete(5, 11);
         System.out.println(sb);
+        System.out.println(sb);
 
 
     }
