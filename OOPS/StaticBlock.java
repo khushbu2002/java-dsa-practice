@@ -9,7 +9,7 @@ public class StaticBlock {
 
     public static void main(String arg[]) {
         StaticBlock obj = new StaticBlock();
-        System.out.println(StaticBlock.a + " " + StaticBlock.b + "");
+        System.out.println(StaticBlock.a + " " + StaticBlock.b);
 
         StaticBlock.b +=3;
         System.out.println(StaticBlock.a + " " + StaticBlock.b);
