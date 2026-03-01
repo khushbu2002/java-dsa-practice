@@ -1,4 +1,5 @@
 A to Z Java (Beginners to Advance)
-DSA and OOP
+DSA and OOPs
+
 
 
