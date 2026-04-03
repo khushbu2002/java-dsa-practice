@@ -25,13 +25,13 @@ public class BasicCalculator {
                 System.out.println("your answer is = " + (operend1 - operend2));
                 break;
             case "/":
-                System.out.println("your answer is =" + (operend1 / operend2));
+                System.out.println("your answer is = " + (operend1 / operend2));
                 break;
             case "*":
-                System.out.println("your answer is =" + (operend1 * operend2));
+                System.out.println("your answer is = " + (operend1 * operend2));
                 break;
             case "%":
-                System.out.println("your answer is =" + (operend1 % operend2));
+                System.out.println("your answer is = " + (operend1 % operend2));
                 break;
             default: System.out.println("nothing choosen");
         }
