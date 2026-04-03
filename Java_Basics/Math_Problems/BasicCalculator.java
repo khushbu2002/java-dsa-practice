@@ -33,7 +33,7 @@ public class BasicCalculator {
             case "%":
                 System.out.println("your answer is = " + (operend1 % operend2));
                 break;
-            default: System.out.println("nothing choosen ");
+            default: System.out.println("nothing choosen");
         }
 
     }
