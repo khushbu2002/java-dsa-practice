@@ -22,7 +22,7 @@ public class BasicCalculator {
                 System.out.println("your answer is = " + (operend1 + operend2));
                 break;
             case "-":
-                System.out.println("your answer is = " + (operend1 - operend2));
+                System.out.println("Your answer is = " + (operend1 - operend2));
                 break;
             case "/":
                 System.out.println("your answer is = " + (operend1 / operend2));
