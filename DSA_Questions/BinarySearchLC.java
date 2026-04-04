@@ -19,6 +19,7 @@ public class BinarySearchLC {
             }
             else {
                 last = mid - 1;
+                
             }
         }
 
