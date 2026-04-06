@@ -12,9 +12,7 @@ public class SecondLargestInArray {
             System.out.println("there is only one element and that is: ");
             return arr[0];
         }
-
         Arrays.sort(arr);
-
         return arr[arr.length-2];
 
         // i will write another function with another logic
