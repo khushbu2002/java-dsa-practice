@@ -7,6 +7,6 @@ public class CheckStringsEqual {
 
         boolean b = s1.equals(s2);
 
-        System.out.println(b);
+        System.out.println(b); //simple and easy
     }
 }
