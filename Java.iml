@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java_Basics/Patterns/Numeric" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Alogrithms" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DSA_Questions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data_Structures" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data_Structures/Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data_Structures/Array/2D_Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data_Structures/Array/ID_Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Data_Structures/LinkedList" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java_Basics" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java_Basics/Math_Problems" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java_Basics/Patterns" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java_Basics/Patterns/Character" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Java_Basics/Patterns/Star" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/OOPS" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
