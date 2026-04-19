@@ -1,5 +1,5 @@
 A to Z Java (Beginners to Advance)
-All of DSA and OOPs
+All of DSA and OOP
 and leetcode question solutions.
 
 
