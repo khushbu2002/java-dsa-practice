@@ -1,5 +1,4 @@
 package String;
-
 public class CheckStringsEqual {
     public static void main(String arg[]) {
         String s1 = "Hello";
